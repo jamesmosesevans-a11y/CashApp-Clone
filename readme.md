@@ -1,4 +1,4 @@
-# CashApp Clone
+# CashApp Clone m
 
 This repository contains the source code for a **CashApp Clone**. The project aims to replicate the essential features of the popular payment app, CashApp, to provide a solid understanding of the key concepts involved in building such an application. This project can be used as a learning tool or as a starting point for your own payment application development.
 
@@ -121,4 +121,6 @@ Contributions are welcome! If you find a bug or want to add a new feature, pleas
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information. 
+
+ Moses James Evans 
