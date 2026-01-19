@@ -19,7 +19,8 @@ class SuccessViewController: UIViewController {
     @IBOutlet weak var bottomLabel: UILabel!
 
 
-    @IBAction func close(_ sender: Any) {
+    @IBAction func close(_ sender: Any) 
+     fix all and correct my data
         self.dismiss(animated: true, completion: nil)
     }
 }
