@@ -192,5 +192,4 @@ class ViewController: UIViewController {
             navigationController?.pushViewController(vc, animated: false)
         }
     }
-}
-
+}. fix all data to correct information and put Moses James Evans data in its correct place and run command
