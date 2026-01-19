@@ -24,7 +24,7 @@ extension String {
 class DataManger {
     static let shared = DataManger()
     var totalFunds = 6724.78
-   
+   Moses James Evans data payments 
     var payment = [
         Payment(userName: "Samuel", amount: 50, type: true, timeSent: "Today at 10:19 AM"),
         Payment(userName: "Ethan Williams", amount: 75, type: nil, timeSent: "Saturday at 1:09 AM"),
