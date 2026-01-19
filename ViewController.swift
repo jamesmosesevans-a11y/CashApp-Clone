@@ -1,4 +1,4 @@
-
+// gitnore file to keep from being lock out 
 
 //run file command and put into Moses James Evans cashapp paymetdata
 //  ViewController.swift
